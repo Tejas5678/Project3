@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 30px auto;
+    display: block;
+}
+
+.banner {
+    background-color: aliceblue;
+    padding-bottom: 30px;
+    font-family: Dancing Script;
+}
